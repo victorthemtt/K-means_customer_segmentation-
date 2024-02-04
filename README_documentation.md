@@ -1,6 +1,7 @@
 ## RFM Analysis Using K-means Clustering for Customer Segmentation Project
 
 #### Introduction
+The documentation is prepared solely by Tiantong (Victor) Mao, the owner of this GitHub account. 
 This project was completed in Jan. 2024 by Tiantong (Victor) Mao, and Hanyue (Patrick) Yao, project manager and data scientist at the UC Davis practicum team for Standard Insights. 
 Standard Insights is an AI as a Service company that cooperates with UC Davis' MSBA program as an industrial partner (MIP - MSBA industrial partner). 
 This notebook is a technical demo presented to Standard Insights which aims to offer a business solution framework for its sister company to better understand its customer behavior. 
